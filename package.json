@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "proxy:express": "sh ./proxyServer.sh",
+    "proxy:server": "sh ./proxyServer.sh",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
